@@ -1,0 +1,8 @@
+Keys:
+F: switch between a sticky or bouncy surface
+W: add wind
+1, 2, 3, 4: choose cube, sphere, cone, or teapot particles
+Spacebar: pause the fountain (hit again to resume)
+R: reset the fountain
+Arrow keys: change your viewing angle
+Mouse: change your view -- click left and drag to tilt, right to pan, scroll to zoom
